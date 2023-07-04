@@ -1,0 +1,267 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.Frame2 {
+  width: 100%;
+  height: 1581px;
+  position: relative;
+  background: white;
+}
+
+.Rectangle1 {
+  width: 100%;
+  height: 612px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #D9D9D9;
+}
+
+.Frame22 {
+  right: 96px;
+  top: 41px;
+  position: absolute;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 24px;
+  display: inline-flex;
+}
+
+.Frame22 > div {
+  color: #3D5656;
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.Frame42 {
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  display: flex;
+}
+
+.BiomatUsa {
+  left: 96px;
+  top: 20px;
+  position: absolute;
+  color: #3D5656;
+  font-size: 20px;
+  font-family: Work Sans;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Rectangle9 {
+  width: 565px;
+  height: 354px;
+  right: 96px;
+  top: 176px;
+  position: absolute;
+  background: #BEBEBE;
+  border-radius: 15px;
+}
+
+.Rectangle10 {
+  width: 500px;
+  height: 302px;
+  left: 730px;
+  top: 365px;
+  position: absolute;
+  background: #AFAFAF;
+  border-radius: 15px;
+}
+
+.ImprovingLivesThroughPlasma {
+  width: 529px;
+  left: 97px;
+  top: 144px;
+  position: absolute;
+  color: #3D5656;
+  font-size: 64px;
+  font-family: Work Sans;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Subheader1 {
+  width: 439px;
+  left: 97px;
+  top: 327px;
+  position: absolute;
+  color: #3D5656;
+  font-size: 24px;
+  font-family: Work Sans;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.Frame23 {
+  width: 298px;
+  padding: 16px;
+  left: 92px;
+  top: 444px;
+  position: absolute;
+  border-radius: 120px;
+  border-left: 1px #3D5656 solid;
+  border-top: 1px #3D5656 solid;
+  border-right: 1px #3D5656 solid;
+  border-bottom: 1px #3D5656 solid;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  display: inline-flex;
+}
+
+.Frame23 > div {
+  text-align: center;
+  color: #3D5656;
+  font-size: 24px;
+  font-family: Work Sans;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.Group14 {
+  width: 14px;
+  height: 14px;
+  position: relative;
+}
+
+.Group14 > div:first-child {
+  width: 14px;
+  height: 0px;
+  left: 0px;
+  top: 7px;
+  position: absolute;
+  border: 1px #3D5656 solid;
+}
+
+.Group14 > div:last-child {
+  width: 7px;
+  height: 14px;
+  left: 7px;
+  top: 0px;
+  position: absolute;
+  border: 1px #3D5656 solid;
+}
+
+.WhyChooseBiomat {
+  left: 97px;
+  top: 780px;
+  position: absolute;
+  color: #323232;
+  font-size: 36px;
+  font-family: Work Sans;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Rectangle11 {
+  width: 400px;
+  height: 400px;
+  left: 96px;
+  top: 853px;
+  position: absolute;
+  background: #D9D9D9;
+  border-radius: 15px;
+}
+
+.Rectangle12 {
+  width: 400px;
+  height: 400px;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 853px;
+  position: absolute;
+  background: #D9D9D9;
+  border-radius: 15px;
+}
+
+.Rectangle13 {
+  width: 400px;
+  height: 400px;
+  right: 96px;
+  top: 853px;
+  position: absolute;
+  background: #D9D9D9;
+  border-radius: 15px;
+}
+
+.LoremIpsum1 {
+  left: 218px;
+  top: 1269px;
+  position: absolute;
+  color: #323232;
+  font-size: 24px;
+  font-family: Work Sans;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.LoremIpsum2 {
+  left: 50%;
+  transform: translateX(-50%);
+  top: 1269px;
+  position: absolute;
+  color: #323232;
+  font-size: 24px;
+  font-family: Work Sans;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.LoremIpsum3 {
+  left: 1115px;
+  top: 1269px;
+  position: absolute;
+  color: #323232;
+  font-size: 24px;
+  font-family: Work Sans;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+
+.LoremIpsumPara1{
+  width: 399px;
+  left: 97px;
+  top: 1306px;
+  position: absolute;
+  text-align: center;
+  color: #323232;
+  font-size: 18.50px;
+  font-family: Work Sans;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.LoremIpsumPara2 {
+  width: 399px;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 1306px;
+  position: absolute;
+  text-align: center;
+  color: #323232;
+  font-size: 18.50px;
+  font-family: Work Sans;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.LoremIpsumPara3{
+  width: 399px;
+  right: 96px;
+  top: 1306px;
+  position: absolute;
+  text-align: center;
+  color: #323232;
+  font-size: 18.50px;
+  font-family: Work Sans;
+  font-weight: 400;
+  word-wrap: break-word;
+}

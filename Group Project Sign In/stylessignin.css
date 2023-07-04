@@ -1,0 +1,101 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.Rectangle1 {
+	width: 100%;
+	height: 278px;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	background: #D9D9D9;
+}
+
+.Frame22 {
+  right: 96px;
+  top: 41px;
+  position: absolute;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 24px;
+  display: inline-flex;
+}
+
+.Frame22 > div {
+  color: #3D5656;
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.Frame42 {
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  display: flex;
+}
+
+.BiomatUsa {
+  left: 96px;
+  top: 20px;
+  position: absolute;
+  color: #3D5656;
+  font-size: 20px;
+  font-family: Work Sans;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.SignInBig {
+	left: 50%;
+	transform: translateX(-50%);
+	top: 142px;
+	position: absolute;
+	color: #3D5656;
+	font-size: 64px;
+	font-family: Work Sans;
+	font-weight: 700;
+	word-wrap: break-word;
+}
+
+.Username {
+	left: 97px;
+	top: 425px;
+	position: absolute;
+	color: #323232;
+	font-size: 36px;
+	font-family: Work Sans;
+	font-weight: 700;
+}
+
+.Form {
+	left: 97px;
+	top: 425px;
+  position: absolute;
+  max-width: 300px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.Form input[type="text"],
+.Form input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  border: 1px solid #a3a3a3;
+  font-family: Work Sans;
+}
+
+.Form input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: #d9d9d9;
+  color: #5f5f5f;
+  font-family: Work Sans;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+}
