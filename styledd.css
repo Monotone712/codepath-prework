@@ -1,0 +1,58 @@
+body {
+    background-color: bisque;
+    margin: 0px;
+}
+#top_banner {
+    text-align: right;
+    background-color:slategray;
+    margin: 0px;
+    padding: 5px;
+}
+#section_2 {
+    display: flex;
+}
+#nav_column {
+    flex: 0 0 auto;
+    flex-direction: column;
+    background-color: slategray;
+    color: white;
+    width: 80px;
+    height: 100%;
+    text-align: left;
+    list-style-type: none;
+    padding: 5px;
+    margin: 5px;
+}
+a{
+    color:inherit;
+    text-decoration: none;
+}
+#dd_box {
+    flex:1;
+    height: 600px;
+    background-color: white;
+    height: auto;
+    max-width: 600px;
+    margin: 5px 0px 0px 0px;
+}
+.table {
+    background-color: slategray;
+    margin: 10px;;
+}
+th{
+    text-align: left;
+    color:white;  
+}
+td{
+    color: white;
+}
+button{
+    text-align: center;
+}
+#title{
+    text-align: center;
+}
+#edit{
+    text-align: right;
+    margin-left: auto;
+}
